@@ -1,0 +1,13 @@
+﻿  LR5.cpp
+c:\users\роман\desktop\labs\lr5\lr5\lr5.cpp(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\роман\desktop\labs\lr5\lr5\lr5.cpp(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\роман\desktop\labs\lr5\lr5\vector.h(48): warning C4101: e: неиспользованная локальная переменная
+  c:\users\роман\desktop\labs\lr5\lr5\vector.h(41): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\роман\desktop\labs\lr5\lr5\lr5.cpp(14): note: выполняется компиляция ссылки на экземпляр шаблон функции "T &Vector<T>::Iterator::operator *(void) const"
+          with
+          [
+              T=int
+          ]
+  c:\users\роман\desktop\labs\lr5\lr5\vector.h(110): note: выполняется компиляция ссылки на экземпляр шаблон класс "Vector<int>::Iterator"
+  c:\users\роман\desktop\labs\lr5\lr5\lr5.cpp(7): note: выполняется компиляция ссылки на экземпляр шаблон класс "Vector<int>"
+  LR5.vcxproj -> C:\Users\Роман\Desktop\Labs\LR5\Debug\LR5.exe
